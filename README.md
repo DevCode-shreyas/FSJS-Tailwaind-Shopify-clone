@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/badge/HTML-TAILWIND_CSS-orange)
 ![image](https://img.shields.io/badge/Project-Shopify-blue)
 
-
+[live Link](https://mellifluous-cassata-0b9244.netlify.app/)
 
 ## About
 
